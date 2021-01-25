@@ -1,0 +1,33 @@
+ sentence=(str)
+        i=0
+        for ( i=o , i< str.length() , i++)
+        if (str.char(i) != " ") 
+        i++
+        write ( "the number of characters in the sentence is"+ i )
+         
+         sentence=(str)
+         j=0
+         for( j=0 ,i< str.length() , i++ )
+         if ( str[j] = " " )
+         j= j + 1
+         write ("the number of word in the sentence is "+ j)
+         
+         sentence =( str)
+         c=0
+         for( c=0 ,c< str.length() , c++ ){
+         switch (str.char(c)) do {
+         case'a':
+         case'e':
+         case'i':
+         case'o':
+         case'u':
+          c++
+         }
+        } 
+          break;
+          write ( "the number of vowels is" + c)
+          break ;
+          default : write ( " no vowels")
+          break;
+         
+        
